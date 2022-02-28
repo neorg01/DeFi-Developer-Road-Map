@@ -12,8 +12,7 @@
 
 <details>
 <summary>Translations</summary>
-<br />
-
+ 
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
   
